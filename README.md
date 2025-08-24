@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning **Laravel**
+
+![Hello](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VicWhkZm5lM242ZG9vYjhqdGNpNWJueWljZGp6bGRoZGhtaTNxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PtdOBG0BD9Vvi/giphy.gif)
